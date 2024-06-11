@@ -1,6 +1,6 @@
 import * as THREE from "three";
-import getLayer from "./getLayer.js";
-import { getBody } from "./getBody.js";
+import getLayer from "./src/getLayer.js";
+import { getBody } from "./src/getBody.js";
 import RAPIER from 'https://cdn.skypack.dev/@dimforge/rapier3d-compat@0.11.2';
 import { MarchingCubes } from "jsm/objects/MarchingCubes.js";
 
